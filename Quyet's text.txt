@@ -1,0 +1,55 @@
+﻿ng-model bind data from control(input,select,textarea) to module
+ng- bind binds from module to view
+
+1: 07:00 - 07:50
+2: 07:55 - 08:45
+3: 08:50 - 09:40
+4: 09:45 - 10:35
+5: 10:40 - 11:30
+6: 11:35 - 12:25
+7: 12:55 - 13:45
+8: 13:50 - 14:40
+9: 14:45 - 15:35
+10: 15:40 - 16:30
+11: 16:35 - 17:25
+12 17:30 - 18:20
+
+The Mahogany Coworking Space
+Tầng 3, tòa nhà Huyndai Đông Đô, số 11 Hoàng Cầu mới, Đống Đa, Hà Nội 
+
+192.168.1.143
+
+58TH.02 kiến trúc máy tính Nguyễn Hằng Phương
+
+Mạng máy tính 58TH.02
+
+thenq58	
+the12345
+
+
+String -----> int      Integer.parseInt()
+Int    -----> String   String.valueOf()
+
+
+rest => service => repository =>Hibernate
+
+
+ 01216152334 casio
+
+https://svn.globits.net/svn/Training/html/angularjs-sample/sample1
+https://svn.globits.net/svn/Training/html/angularjs-sample/sample3
+https://svn.globits.net/svn/Training/html/angularjs-sample/sample2
+https://svn.globits.net/svn/Training/java/SpringSample-Simple
+https://svn.globits.net/svn/Training/java/SpringSample
+
+https://svn.globits.net/svn/globits-ecosystem/calendar
+https://svn.globits.net/svn/globits-ecosystem/doms
+https://svn.globits.net/svn/globits-ecosystem/hr
+https://svn.globits.net/svn/globits-ecosystem/letter
+https://svn.globits.net/svn/globits-ecosystem/taskman
+https://svn.globits.net/svn/globits-ecosystem/test
+
+dl-enter-key
+
+quyetto820@gmail.com	
+quyet1691998
